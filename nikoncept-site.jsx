@@ -346,7 +346,7 @@ export default function NikoncepTSite() {
       {/* HERO */}
       <header id="home" className="nik-hero">
         <div>
-          <div className="nik-eyebrow nik-mono">Mushin, Lagos State</div>
+          <div className="nik-eyebrow nik-mono"></div>
           <h1 className="nik-headline nik-h1">
             One partner for every system <em>and</em> every errand your business runs on.
           </h1>
